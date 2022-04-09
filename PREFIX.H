@@ -1,0 +1,12 @@
+//El prefijo incluye el define.h ademas de todas las clases
+#include "defines.h"
+#include "counter.h"
+#include "ringingt.h"
+#include "party.h"
+#include "statisti.h"
+#include "call.h"
+#include "terminal.h"
+#include "table.h"
+#include "matrix.h"
+#include "actcods.h"
+#include "hardlay.h"
